@@ -18,6 +18,12 @@ body {
   display: block;
 }
 
+header {
+    background-color: beige;
+    text-align: center;
+}
+
+
 #section1{
     background-color: beige;
 }
@@ -42,6 +48,10 @@ footer{
 }
 #otherHeading{
     color:red;
+}
+
+#yetAnotherHeading{
+    color: red;
 }
 .funParagraph {
     color: green;
