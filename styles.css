@@ -1,1 +1,55 @@
 /* Write your CSS here! */
+
+body {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-left: 8px;
+
+  padding-top: 20px;
+  padding-right: 175px;
+  padding-bottom: 20px;
+  padding-left: 175px;
+
+  background-color: lightgray;
+  text-align: center;
+  display: block;
+}
+
+.section1{
+    background-color: beige;
+}
+
+.section2{
+    background-color: beige;
+}
+
+.section3{
+    background-color: beige;
+}
+
+head {
+    background-color: beige;
+}
+
+footer{
+    background-color: beige;
+}
+#mainHeading{
+    color: red;
+}
+#otherHeading{
+    color:red;
+}
+.funParagraph {
+    color: green;
+}
+
+#testP{
+    color: green;
+}
+.centerTable{
+    margin-left: auto;
+margin-right: auto;
+background-color: beige;
+}
