@@ -1,1 +1,72 @@
 /* Write your CSS here! */
+
+body {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+  
+    margin: 8px;
+  
+    padding-top: 20px;
+    padding-right: 175px;
+    padding-bottom: 20px;
+    padding-left: 175px;
+  
+    background-color: white;
+    text-align: center;
+    display: block;
+  }
+  
+  header {
+      background-color: whitesmoke;
+      text-align: center;
+  }
+  
+  #h1 {
+      color: black;
+  }
+  
+  #section1{
+      background-color: whitesmoke;
+  }
+  
+  #section2{
+      background-color: whitesmoke;
+  }
+  
+  #section3{
+      background-color: whitesmoke;
+  }
+  
+  head {
+      background-color: whitesmoke;
+  }
+  
+  footer{
+      background-color: whitesmoke;
+  }
+  #mainHeading{
+      color: black;
+  }
+  #otherHeading{
+      color:black;
+  }
+  
+  #yetAnotherHeading{
+      color: black;
+  }
+  .funParagraph {
+      color: black;
+  }
+  
+  #testP{
+      color: black;
+  }
+  .centerTable{
+      margin-left: auto;
+  margin-right: auto;
+  background-color: whitesmoke;
+  }
+
+/* ------------------------ HMMMMM ----------------------  */
